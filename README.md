@@ -43,8 +43,8 @@ Veja o detalhamento completo em [`tabela-de-estudos.md`](tabela-de-estudos.md).
 
 | Integrante | Usuário GitHub | Papel no Projeto |
 |---|---|---|
-| **Integrante A** | [@usuario-a](https://github.com/usuario-a) | Criação do repositório, estruturação do README, documentação geral |
-| **Integrante B** | [@usuario-b](https://github.com/usuario-b) | Elaboração da tabela de estudos, revisão de conteúdo, complementação técnica |
+| **Integrante A** | [@realgigante55-stack](https://github.com/realgigante55-stack) | Criação do repositório, estruturação do README, documentação geral |
+| **Integrante B** | [@MiguelBertolon](https://github.com/MiguelBertolon) | Elaboração da tabela de estudos, revisão de conteúdo, complementação técnica |
 
 ## ✅ Status do Projeto
 
