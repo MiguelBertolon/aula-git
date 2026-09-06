@@ -48,5 +48,6 @@ Veja o detalhamento completo em [`tabela-de-estudos.md`](tabela-de-estudos.md).
 
 ## ✅ Status do Projeto
 
-Projeto em fase de expansão, com nova etapa de fluxo profissional (branches, PRs e releases)
-sendo implementada pela dupla, seguindo o padrão de commits semânticos.
+Projeto atualizado com fluxo Git profissional completo: branches individuais, Pull Requests,
+Code Review, resolução de conflitos de merge e versionamento com tags, desenvolvido
+colaborativamente pela dupla.
