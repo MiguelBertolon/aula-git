@@ -45,3 +45,8 @@ Veja o detalhamento completo em [`tabela-de-estudos.md`](tabela-de-estudos.md).
 |---|---|---|
 | **Integrante A** | [@usuario-a](https://github.com/usuario-a) | Criação do repositório, estruturação do README, documentação geral |
 | **Integrante B** | [@usuario-b](https://github.com/usuario-b) | Elaboração da tabela de estudos, revisão de conteúdo, complementação técnica |
+
+## ✅ Status do Projeto
+
+Projeto concluído em 06/09/26, com histórico de commits de ambos os integrantes,
+seguindo o padrão de commits semânticos (Conventional Commits) e sem conflitos de merge.
