@@ -35,3 +35,12 @@
 | `fix:` | Correção de erro |
 | `docs:` | Alterações em documentação |
 | `chore:` | Tarefas de manutenção/organização |
+
+
+## Fluxo de Trabalho Colaborativo (Resumo)
+
+1. `git pull` para atualizar antes de trabalhar
+2. Editar arquivos
+3. `git add` + `git commit -m "mensagem clara"`
+4. `git pull` novamente (garantir sincronização)
+5. `git push` para enviar ao repositório remoto
