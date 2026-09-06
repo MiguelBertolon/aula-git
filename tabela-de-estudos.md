@@ -44,14 +44,3 @@
 3. `git add` + `git commit -m "mensagem clara"`
 4. `git pull` novamente (garantir sincronização)
 5. `git push` para enviar ao repositório remoto
-
-
-## Fluxo Profissional (Git Flow / GitHub Flow)
-
-| Conceito | Descrição |
-|---|---|
-| `feature/*` | Branch usado para desenvolver uma funcionalidade isolada |
-| Pull Request (PR) | Solicitação para mesclar um branch na main, com revisão |
-| Code Review | Processo de revisão de código por outro integrante |
-| Conflito de Merge | Ocorre quando a mesma linha é alterada em branches diferentes |
-| Tag/Release | Marca uma versão estável do projeto |
