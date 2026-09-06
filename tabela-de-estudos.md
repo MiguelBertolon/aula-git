@@ -17,3 +17,13 @@
 | `git push origin main` | Envia commits para o repositório remoto |
 | `git pull origin main` | Baixa e mescla alterações do remoto |
 | `git remote -v` | Lista os repositórios remotos configurados |
+
+## Branches e Merge
+
+| Comando | Função |
+|---|---|
+| `git branch <nome>` | Cria uma nova branch |
+| `git checkout <branch>` | Muda para outra branch |
+| `git merge <branch>` | Mescla alterações de uma branch na atual |
+| `git branch -d <nome>` | Deleta uma branch local |
+
