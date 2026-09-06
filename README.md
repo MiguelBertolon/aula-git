@@ -48,5 +48,5 @@ Veja o detalhamento completo em [`tabela-de-estudos.md`](tabela-de-estudos.md).
 
 ## ✅ Status do Projeto
 
-Projeto concluído em 06/09/26, com histórico de commits de ambos os integrantes,
-seguindo o padrão de commits semânticos (Conventional Commits) e sem conflitos de merge.
+Projeto em fase de expansão, com nova etapa de fluxo profissional (branches, PRs e releases)
+sendo implementada pela dupla, seguindo o padrão de commits semânticos.
