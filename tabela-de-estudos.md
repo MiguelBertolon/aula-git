@@ -27,3 +27,11 @@
 | `git merge <branch>` | Mescla alterações de uma branch na atual |
 | `git branch -d <nome>` | Deleta uma branch local |
 
+## Conventional Commits
+
+| Prefixo | Uso |
+|---|---|
+| `feat:` | Nova funcionalidade ou conteúdo |
+| `fix:` | Correção de erro |
+| `docs:` | Alterações em documentação |
+| `chore:` | Tarefas de manutenção/organização |
