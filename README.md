@@ -48,5 +48,6 @@ Veja o detalhamento completo em [`tabela-de-estudos.md`](tabela-de-estudos.md).
 
 ## ✅ Status do Projeto
 
-Projeto atualizado com fluxo Git profissional: branches individuais, Pull Requests,
-Code Review, resolução de conflitos e versionamento com tags.
+Projeto atualizado com fluxo Git profissional completo: branches individuais, Pull Requests,
+Code Review, resolução de conflitos de merge e versionamento com tags, desenvolvido
+colaborativamente pela dupla.
